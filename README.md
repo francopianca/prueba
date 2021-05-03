@@ -2,11 +2,11 @@
 Repositorio de prueba para comandos de GIT
 
 ## Autor
-*Piancatelli **Franco**
+* Piancatelli **Franco**
 
 
 
-##Contenido/Descripcion
+## Contenido/Descripcion
 
 
 |email | autores |
@@ -14,7 +14,7 @@ Repositorio de prueba para comandos de GIT
 |2002979@ucc.edu.com.ar|franco|
 
 :octocat:
-
+:+1:
 :sparkle:
 
 
